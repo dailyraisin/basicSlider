@@ -1,22 +1,6 @@
 /*
-	Author Joe Kovach
-	Copyright 2012 october
-
-	Basic slider demo with pure javascript
-
-	Usage:
-		basicSlider(el);
-
-	Required Markup:
-		A block element.  The class must match the CSS rules.
-		Use this for starters: <div class="slider"></div>
-
-	Rendered markup:
-		<div class="slider">
-			<div class="rule"></div>
-			<div class="handle"></div>
-			<div class="position"></div>
-		</div>
+	Author Daily Raisin LLC
+	Copyright October 2012
 */
 
 (function (window, document) {
