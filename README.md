@@ -1,6 +1,6 @@
 # Basic Slider Demo
 
-Basic slider demo with pure javascript
+Basic slider demo with pure javascript. Load `index.html` for an example. 
 
 ## Usage
     basicSlider(el);
